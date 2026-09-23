@@ -108,7 +108,7 @@ automatic hold timer.
 
 The next automatic transition synchronizes image and text again.
 
-## Development status
+## Status
 
 The transition implementation has been tested with MATE 2.x and MATE 3.x
 on Contao 4.13, 5.3 and 5.7.

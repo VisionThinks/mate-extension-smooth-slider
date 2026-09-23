@@ -1,7 +1,7 @@
 /**
  * Contao MATE Smooth Slider
  *
- * Development v0.1
+ * Version 0.1.0
  *
  * - true image crossfade
  * - independent text transition
