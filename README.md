@@ -1,5 +1,7 @@
 # Contao MATE Smooth Slider
 
+English | [Deutsch](README.de.md)
+
 Update-safe enhancement for the Contao MATE news slider.
 
 The bundle adds smooth image and text transitions without modifying
