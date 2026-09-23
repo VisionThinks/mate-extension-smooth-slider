@@ -1,0 +1,19 @@
+{
+    "name": "visionthinks/contao-mate-smooth-slider",
+    "description": "Smooth image and text transitions for the Contao MATE news slider.",
+    "type": "contao-bundle",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.1 <8.5",
+        "contao/core-bundle": "^4.13 || ^5.3",
+        "contao-themes-net/mate-theme-bundle": "^2.21.4 || >=3.5.4 <4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "VisionThinks\\ContaoMateSmoothSliderBundle\\": "src/"
+        }
+    },
+    "extra": {
+        "contao-manager-plugin": "VisionThinks\\ContaoMateSmoothSliderBundle\\ContaoManager\\Plugin"
+    }
+}

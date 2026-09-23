@@ -1,0 +1,10 @@
+# Local development backups
+*.before-*
+*.bak
+*.tmp
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
